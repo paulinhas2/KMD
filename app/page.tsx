@@ -260,7 +260,7 @@ export default function KCPModsBioPage() {
 
           {/* WhatsApp Card */}
           <motion.a
-            href="https://wa.link/uiwfgr"
+            href="https://wa.me/5521969905171?text=Quero%20saber%20mais%20sobre%20o%20GTA%20RP%20no%20console"
             target="_blank"
             rel="noopener noreferrer"
             initial={{ x: 100, opacity: 0 }}
